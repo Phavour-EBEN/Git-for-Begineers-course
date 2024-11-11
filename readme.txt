@@ -1,3 +1,3 @@
 Welcome to the Git for Beginners Course
 
-Author:
+Author: Ebenezer
