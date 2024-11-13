@@ -1,4 +1,4 @@
 Welcome to the Git for Beginners Course
 
-Author: Ebenezer
+Author: Ebenezer tutu
 Twitter: @Phavour-EBEN
