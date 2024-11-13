@@ -1,8 +1,5 @@
 Welcome to the Git for Beginners Course
 
-<<<<<<< HEAD
-Author: Ebenezer Ainoo
-=======
-Author: Ebenezer tutu
->>>>>>> feature/middlename
+Author: Ebenezer tutu Ainoo
+
 Twitter: @Phavour-EBEN
